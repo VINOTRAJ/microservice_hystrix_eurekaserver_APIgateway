@@ -1,0 +1,25 @@
+   -----------------GIT BASIC COMMANDS--------------------
+
+step 1: 	install git
+
+step 2: 	create a git account (git account creation using mail id)
+
+step 3: 	create repository in git.
+
+step 4:		run on cmd prompt or git bash inside the certain file or folder
+
+step 5:		git config (username and mail)
+       		git config --global user.name <username>
+       		git config --global user.email <mailid>
+
+step 6:		git clone <repository link> (using repository link)
+
+step 7:		git init 
+
+step 8:		git status
+
+step 9:		git add <file name> or git add *
+
+step 10: 	git commit -m "message"
+
+step 11:	git push
