@@ -1,0 +1,17 @@
+------------------SWAGGER UI-->DEPENDENCY -----------
+<dependency>
+<groupId>io.springfox</groupId>
+<artifactId>springfox-boot-starter</artifactId>
+<version>3.0.0</version>
+</dependency>
+
+<dependency>
+<groupId>io.springfox</groupId>
+<artifactId>springfox-swagger2</artifactId>
+<version>3.0.0</version>
+</dependency>
+
+
+-----------------host----------
+
+localhost:8080/swagger-ui/
