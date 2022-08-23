@@ -1,0 +1,35 @@
+1) Spring Core Annotations
+
+1.1) @Autowired
+1.2) @Component
+1.3) @Bean
+1.4) @Qualifier
+1.5) @Primary
+1.6) @Required
+1.7) @Value
+1.8) @Import
+
+
+
+
+2) Spring MVC Annotations
+2.1) @Controller
+2.2) @Service
+2.3) @Repository
+2.4) @RequestMapping 
+2.5) @RequestBody
+2.6) @GetMapping
+2.7) @PostMapping
+2.8) @PutMapping
+2.9) @DeleteMapping
+2.10) @PatchMapping
+2.11) @ResponseBody
+2.12) @ExceptionHandler
+2.13) @ResponseStatus
+2.14) @PathVariable
+2.15) @RequestParam
+2.16) @RestController
+
+
+
+ApplicationContext.
